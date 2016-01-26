@@ -1,15 +1,17 @@
 Aplicación Unity3D para Interfaces Inteligentes
 ===============================================
 
+*Jonathan Expósito Martín*  
+*Sergio Rodríguez Martín*
+
 Unity es una plataforma de desarrollo flexible y poderosa para crear juegos y experiencias interactivos 3D y 2D multiplataforma.
 
 ![](http://www.untoldentertainment.com/blog/img/2009_09_11/unityLogo.jpg)
 
-## 
 
 ### 1. Descripción
 
-  Consiste en un personaje que podemos mover por el escenario. El personaje es capaz de saltar y agacharse para superar los obstaculos. Se utiliza la cámara de Cardboard con el punto de vista situado en la espalda del personaje para ver las animaciones disponibles.
+  Consiste en un personaje que podemos mover por el escenario. El personaje es capaz de saltar y agacharse para superar los obstáculos. Se utiliza la cámara de Cardboard con el punto de vista situado en la espalda del personaje para ver las animaciones disponibles.
 
 ### 2. Guía de uso
 
@@ -41,4 +43,4 @@ Unity es una plataforma de desarrollo flexible y poderosa para crear juegos y ex
   14. Implementar la acciones de saltar y agacharse del personaje.
   15. Asignar animaciones a las acciones de saltar y agacharse.
   16. Modificar box collider del personaje en función de los cambios en sus animaciones.
-  17. Crear plataformas de obstaculos para poner en prueba las acciones del personaje. 
+  17. Crear plataformas de obstáculos para poner en prueba las acciones del personaje. 
